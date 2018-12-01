@@ -145,3 +145,6 @@ float: right;
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+  .container-fluid{
+      padding:3% 15%;
+  }
